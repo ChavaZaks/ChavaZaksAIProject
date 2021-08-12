@@ -6,3 +6,4 @@ If you accidently typed something different the program will end.
 You can always start the program again.
 
 # Requirements
+numpy, pandas, plotly, sklearn, sys, umap, prince
